@@ -1,0 +1,1 @@
+Este projeto utiliza técnicas de machine learning para realizar a projeção de vendas. O objetivo é prever as vendas futuras com base em dados históricos, utilizando modelos de aprendizado supervisionado. A implementação é feita em Python, utilizando bibliotecas populares como Pandas, Scikit-learn, e Matplotlib para análise de dados, modelagem e visualização.
